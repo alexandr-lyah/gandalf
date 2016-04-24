@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.datastax.spark:kafka-streaming_2.10:1.1.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.datastax.spark/kafka-streaming_2.10/jars/kafka-streaming_2.10-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.datastax.spark/kafka-streaming_2.10/docs/kafka-streaming_2.10-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.datastax.spark/kafka-streaming_2.10/srcs/kafka-streaming_2.10-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
